@@ -1,6 +1,6 @@
 # flutter_application_2
 
-A new Flutter plugin project.
+Flutter protobuf C++ plugin example.
 
 ## Getting Started
 
