@@ -12,7 +12,7 @@ class FlutterApplication_2 {
   Future<String?> getPlatformVersion() {
     var settings = protos.ScanSettings.create()
       ..androidScanMode = 10
-      ..serviceUuids = "This is a protos ";
+      ..serviceUuids = "This is a protos demo ~";
 
     return FlutterApplication_2Platform.instance
         .getPlatformVersion(settings.writeToBuffer());
